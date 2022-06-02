@@ -1,0 +1,21 @@
+/**********************************************************************************
+ Poema que voy a imprimir en la consola: 
+ Es una calle larga y silenciosa.
+ Ando en tinieblas y tropiezo y caigo
+ y me levanto y piso con pies ciegos
+ las piedras mudas y las hojas secas
+ y alguien detrás de mí también las pisa:
+ si me detengo, se detiene;
+ si corro, corre. Vuelvo el rostro: nadie.
+
+ *********************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Es una calle larga y silenciosa.\nAndo en tinieblas y tropiezo y caigo\ny me levanto y piso con pies ciegos\nlas piedras mudas y las hojas secas\ny alguien detrás de mí también las pisa\nsi me detengo, se detiene;\nsi corro, corre. Vuelvo el rostro: nadie.";
+    
+return 0;
+}
